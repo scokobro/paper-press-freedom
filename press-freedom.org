@@ -116,7 +116,25 @@ Is /chūritsu/ equivalent to 'balance'?
 * Government people involved
 
 ** Abe Shinzō
-Two-time prime minister, grandson of former PM Nobusuke Kishi(1957-1960), son of LDP foreign minister and faction leader, Shintaro Abe.
+Two-time prime minister(2006--7, 2012--6)!!, grandson of former PM(1957-1960) Nobusuke Kishi, son of ex-/Mainichi Shimbun/ reporter, LDP foreign minister and faction leader, Shintaro Abe.
+
+Deeply conservative.
+
+Seems to be unusually insensitive to ruffling feathers, making use of a weak opposition to push through measures in some haste.
+
+Economic policy largely a failure.
+
+Main interests, if his book 'Utsukuishii Kuni he' (Toward a Beautiful Country) is anything to go by, are foreign policy and diplomacy. Japan's position in the world, particularly with regard to the US.
+
+#+BEGIN_QUOTE
+In his 232-page book, Abe made little mention of macroeconomic or financial policies.
+
+He dedicated six of the seven chapters to his discussion on diplomacy, nationalism and education. The remaining one looks at the nation’s social security system and low birthrate.
+#+END_QUOTE
+Source: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p1807][Formed in childhood, roots of Abe's conservatism go deep | The Japan Times]]
+
+And as the same article mentions he can be 'pragmatic' (unprincipled!) as demonstrated by his controlled use of nationalistic rhetoric and symbolism before the 200? election as a means to woo conservative voters which was then toned down when the practicalities of governing needed to be attended to. This is not a feature particular to Abe, Japanese politics is primarily a matter of power distribution and management, not one that encourages or rewards, or even expects, principled policy positions.
+# add something from Curtis book!
 
 ** Takaichi Sanae
 Takaichi Sanae first joined the government during Abe Shinzo's second cabinet when she was appointed Minister for Internal Affairs and communications in September 2014. At time of writing she is still in this role, being retained after the reshuffle of December 2014.
@@ -136,7 +154,7 @@ Suga Yoshihide was Vice-minister for Internal Affairs and communications during 
 
 Suga's role of /Kanbōchōkan/ - Chief Cabinet Secretary puts him in the position where he is the primary government spokesman, he regularly appears in the mass media making statements on government policy and reacting to events and comments made by others.
 
-However, the unwritten rules of Japanese reporting mean that it is very rare for him to face 'hard' public questioning on matter of concern. Political reporting in Japan tends to be 'polite' to the point of unctuousness. Thus, when the presenter of NHK's daily current affairs show /Close-Up Gendai/ 国谷裕子 deviated from this norm and repeatedly asked if the newly agreed 'War Law' might not lead to Japan's becoming embroiled in allies' conflicts, he was a little put out.
+However, the unwritten rules of Japanese reporting mean that it is very rare for him to face 'hard' public questioning on matter of concern. Political reporting in Japan tends to be 'polite' to the point of unctuousness. Thus, when the presenter of NHK's daily current affairs show /Close-Up Gendai/ 国谷裕子 deviated from this norm and wrepeatedly asked if the newly agreed 'War Law' might not lead to Japan's becoming embroiled in allies' conflicts, he was a little put out.
 # interview July 2014
 
 Kunitani presented her last program on ??? after a career of 23 years at NHK.
