@@ -112,13 +112,14 @@ Is /chūritsu/ equivalent to 'balance'?
 
 ** Abenomics
 
+
 * Government people involved
 
 ** Abe Shinzō
-Two-time prime minister, grandson of former PM Kishi.
+Two-time prime minister, grandson of former PM Nobusuke Kishi(1957-1960), son of LDP foreign minister and faction leader, Shintaro Abe.
 
 ** Takaichi Sanae
-Takaichi Sanane first joined the government during Abe Shinzo's second cabinet when she was appointed Minister for Internal Affairs and communications in September 2014. At time of writing she is still in this role, being retained after the reshuffle of December 2014.
+Takaichi Sanae first joined the government during Abe Shinzo's second cabinet when she was appointed Minister for Internal Affairs and communications in September 2014. At time of writing she is still in this role, being retained after the reshuffle of December 2014.
 # 第2次安倍内閣改造内閣	高市　早苗
 # 平成26年9月3日～平成26年12月24日
 # 第3次安倍内閣	- 第3次安倍内閣改造内閣
@@ -154,4 +155,5 @@ Simultaneous belonging to groups with conflicting interests (company vs professi
 #+BEGIN_LATEX
 \printbibliography
 #+END_LATEX
+
 
