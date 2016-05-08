@@ -6,6 +6,11 @@
 #+COLUMNS: %25ITEM %TARGET %ACTUAL %PRIORITY
 #+TITLE: Press Freedom in Japan
 
+
+#+BEGIN_ABSTRACT
+This paper briefly outlines the background which over the last several years has led to concerns over the future of the ability of Japan's press to contribute usefully to its democracy. 
+#+END_ABSTRACT
+
 * Press Freedom in Japan
 :PROPERTIES:
 :TARGET: 400
@@ -52,19 +57,26 @@ An increase in the degree to which those within the mass media who take the idea
 
 * Informal meetings increase
 
-/For periods of 2nd and 3rd Abe Cabinets/
-Fuji-Sankei - apx20\
-Yomi-NTV - apx40\
-Asahi-TVAs - 7\
-Mainichi-TBS - apx10\
+As the figures (see [[tab:meetings]])detailed by ??? in HSR 260 (p22), there are significant and regular contacts between members of the government and senior members of the press.
 
-/One-on-one interviews w Abe/
-Fuji-Sankei - 30\
-Yomi-NTV - 30\
-Others - apx 10\
+#+CAPTION: Number of meetings and one-to-ne interviews between PM Abe and media groupings during the 2nd and 3rd Abe cabinets (201?--present). p22, Hoso Report 260s
+#+NAME: tab:meetings
+| Media Group   | 1-to-1 ivs | Number of meetings |
+|---------------+------------+--------------------|
+| Yomiuri-NTV   | 30         | apx40              |
+| Fuji-Sankei   | 30         | apx20              |
+| Mainichi-TBS  | - [fn:1]   | apx10              |
+| Asahi-TVAsahi | - [fn:1]   | 7                  |
 
-(Source - p22, Hoso Report 260s)
+[fn:1]: all other media groups total apx. 10.
 
+# /One-on-one interviews w Abe/
+# Fuji-Sankei - 30\
+# Yomi-NTV - 30\
+# Others - apx 10\
+# (Source - p22, Hoso Report 260s)
+
+It can be seen from these figures that not all media groupings are treated the same way by the government. Those generally seen as more conservative[CITE], with views that generally align fairly well with the views of an LDP cabinet can be seen to have been favoured with access to PM Abe.
 * A timeline of events
 
 There are independent justifications and explanations for all the events looked at her, and indeed, within the mass media industries there will be many individuals for whom political pressure does not seem to be a relevant issue. While editorial staff in the mass media are the most visible and most vocal section, they are not the most numerous. Yet they the editorial staff in some sense *are* the mass media in that they are the people who fulfill its primary function of gathering, editing and presenting the information which allows audiences to (theoretically at least) participate as citizens.
@@ -82,10 +94,13 @@ Katsuto Momii, in places described as a friend of Shinzo Abe, was appointed Chai
 #+END_QUOTE
 SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p1419][Abe Should Condemn NHK Officials' Comments: U.S. Paper]]
 
-** Koga Shigeaki?
-- Pre-election letter to press
-- Furutachi goes
-- Takaichi 'gyoumu teishi' threat
+** Koga Shigeaki
+
+** Pre-election letter to press
+
+** Furutachi goes
+
+** Takaichi 'gyoumu teishi' threat
 
 * Issues
 ** Nuclear Power
@@ -99,7 +114,7 @@ This refers to the /Tokutei Himitsu Hogo Hō/ passed by the Diet on ??? in the f
 
 ** General Election
 
-- Letter from Jiminto/govt reminding broadcasters to be 'fair' - look at exact usage of words - /chūritsu/ and /kōhei/.
+- Letter from LDP/government reminding broadcasters to be 'fair' - look at exact usage of words - /chūritsu/ and /kōhei/.
 
 See Kishii argument in HSReport.
 
@@ -142,6 +157,17 @@ Takaichi Sanae first joined the government during Abe Shinzo's second cabinet wh
 # 平成26年9月3日～平成26年12月24日
 # 第3次安倍内閣	- 第3次安倍内閣改造内閣
 # 平成26年12月24日～present
+
+Shortly after her promotion it emerged she had met right-winger - the Guardian went as far as to say 'Neo-Nazi'(see [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p620][Neo-Nazi photos pose headache for Shinzo Abe | World news | theguardian.com]]) - Kazunari Yamada, and had her photograph taken with him in front of the Japanese flag, still a controversial symbol for many in Japan[CITE]. 
+
+She had also voiced the belief that:
+# the ruling Liberal Democratic Party’s own policy chief said on NHK the previous day
+#+BEGIN_QUOTE
+that President Shinzo Abe disagreed with the findings of the Tokyo War Crimes Tribunal.
+#+END_QUOTE
+SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p422][Suga rushes to smother LDP's latest brush fire over war - The Japan Times]]
+
+As politicians cannot fail to be aware, it is impossible to unsay things - despite the prevalence of the term /tekkai/ ('withdraw')  in the rhetoric of Japanese political apology. Once an utterance has been made it can be left to appeal to those who must be appealed to and winkingly 'retracted' for the sake of propriety. It requires little of, and would seem to involve little damage to credibility, for a politician to withdraw a statement if they can be argue that they have done so under pressure from 'biased', 'left-wing' media.
 
 ** Suga Yoshihide
 Suga Yoshihide was Vice-minister for Internal Affairs and communications during the third Koizumi cabinet, Nov 2005 - Sep 2006; he was then promoted to Minister when Abe took over the premiership in Sep 2006, a post he held until August 2007.
