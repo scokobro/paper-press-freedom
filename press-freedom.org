@@ -1,0 +1,156 @@
+#+STARTUP: indent
+#+LATEX_CLASS: koma-article
+#+LATEX_HEADER: \usepackage{spkb-pack}
+#+LATEX_HEADER: \addbibresource{/Users/spkb/Documents/Bibliographies/mybib.bib}
+#+OPTIONS: toc:nil
+#+COLUMNS: %25ITEM %TARGET %ACTUAL %PRIORITY
+#+TITLE: Press Freedom in Japan
+
+* Press Freedom in Japan
+:PROPERTIES:
+:TARGET: 400
+:ACTUAL: 
+:END:
+The aims of the law are as follows (Section 1, article 1)
+
+#+BEGIN_QUOTE
+第一章　総則
+（目的）
+
+第一条 　この法律は、次に掲げる原則に従つて、放送を公共の福祉に適合するように規律し、その健全な発達を図ることを目的とする。
+一 　放送が国民に最大限に普及されて、その効用をもたらすことを保障すること。
+二 　放送の不偏不党、真実及び自律を保障することによつて、放送による表現の自由を確保すること。
+三 　放送に携わる者の職責を明らかにすることによつて、放送が健全な民主主義の発達に資するようにすること。
+#+END_QUOTE
+
+Roughly speaking the aims of the law are:
+
+#+BEGIN_QUOTE
+1. To ensure that broadcasting is available to as many people as possible.
+2. By guaranteeing the impartiality, veracity and independence of broadcasting, secure freedom of expression through broadcasting.
+3. By clarifying the duties of those involved in boadcasting, to ensure that broadcasting contributes to the development of healthy democracy. (author's translation)
+#+END_QUOTE
+
+To summarise, the Broadcast Law was conceived and created as a way of ensuring that the broadcast industry was independent - not beholden to any particular section of society, and was thus in a position to contribute to the development of postwar Japan as a democracy.
+
+** Dependence and Independence
+In Japan, being independent can equate to 'having nor friends' - for a society where belonging, ranking, explicitly structured social arrangments are the norm - independence is a scary and probably unwelcome state. It implies being cut off, adrift, without support and guidance.
+
+* Real world effects?
+:PROPERTIES:
+:TARGET: 400
+:ACTUAL: 50
+:END:
+Taken separately the incidents and occurrences can all be accounted for separately, however their co-occurrence has to be accounted for in some way. Why *these* incidents, why *now*?
+
+** Furutachi - 'News23' caster dropped
+- despite on-air disagreement with Koga
+** 'Close Up Gendai'
+- caster replaced, program changed... Dave Spector!!!
+
+An increase in the degree to which those within the mass media who take the idea of independence seriously - who realise how essential such a media is to a  functioning democracy - think it is necessary to bring the topic of 'political pressure' out for discussion.
+
+* Informal meetings increase
+
+/For periods of 2nd and 3rd Abe Cabinets/
+Fuji-Sankei - apx20\
+Yomi-NTV - apx40\
+Asahi-TVAs - 7\
+Mainichi-TBS - apx10\
+
+/One-on-one interviews w Abe/
+Fuji-Sankei - 30\
+Yomi-NTV - 30\
+Others - apx 10\
+
+(Source - p22, Hoso Report 260s)
+
+* A timeline of events
+
+There are independent justifications and explanations for all the events looked at her, and indeed, within the mass media industries there will be many individuals for whom political pressure does not seem to be a relevant issue. While editorial staff in the mass media are the most visible and most vocal section, they are not the most numerous. Yet they the editorial staff in some sense *are* the mass media in that they are the people who fulfill its primary function of gathering, editing and presenting the information which allows audiences to (theoretically at least) participate as citizens.
+
+** /Tsubaki Hatsugen Jiken/ (1993-4)
+This well-documented incident\cite{Berger:1995} can be thought of as a turning point in government attitudes to the import of the Broadcast Law.(cite!) What had between its creation in 1950 and this point had been seen as a set of 'ethical guidelines' (/rinri-kijun/) for those in the mass media started to take on aspects of ???. It was from this point on that /gyōsei-shidō/ started to be used to deal with perceived infractions.
+** 2011.3 - Tsunami - Fukushima
+The Tohoku Quake/Tsunami and Fukushima Daiichi Nuclear Plant disasters of March 2011 marked another significant event in the downward spiral of press freedom in Japan. The veils of secrecy and impulse to obfuscation of the various sources of information - central government, Tokyo Power (TEPCO) and the selection nuclear industry related bodies referred to in Japanese as 'genpatsu-mura' (the nuclear village) all demonstrated the instinct to cover up and prevaricate in situations where openness, information and knowledge-sharing would have probably led to preferable outcomes for many concerned, particularly those people directly affected by this medley of disasters.
+
+Reporters Sans Frontieres cites official attitudes to reporting of these matters as a primary concern in its report of 2012? when Japan's ranking fell from ??? to ???.
+** Momii - NHK
+Katsuto Momii, in places described as a friend of Shinzo Abe, was appointed Chairman of NHK in ??? His first official act was to effectively undermine the standing of the organisation he was heading by making inflammatory comments on the 'comfort women' issue. He soon followed this up with further statements which seemed to suggest that under his leadership NHK would be following the government line.
+#+BEGIN_QUOTE
+"it would not do for us to say 'left' when the government is saying 'right',"
+#+END_QUOTE
+SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p1419][Abe Should Condemn NHK Officials' Comments: U.S. Paper]]
+
+** Koga Shigeaki?
+- Pre-election letter to press
+- Furutachi goes
+- Takaichi 'gyoumu teishi' threat
+
+* Issues
+** Nuclear Power
+
+3/14 Asahi paper, then shasetsu 4/15 - complaints from Matsuura Nuclear Kisei-cho saying article wrong. 16/3/16 govt complained at regular presser.
+
+Hokkaido Paper - Uede reporter
+** Secrets Law
+This refers to the /Tokutei Himitsu Hogo Hō/ passed by the Diet on ??? in the face of a great deal of concern from civil society groups and opposition politicians.
+** War Law
+
+** General Election
+
+- Letter from Jiminto/govt reminding broadcasters to be 'fair' - look at exact usage of words - /chūritsu/ and /kōhei/.
+
+See Kishii argument in HSReport.
+
+As other have argued \citep[27--8]{Street:2011} the positions implied by the Japanese term /chūritsu/, while it might seem desirable, can be seen on a fairly cursory inspection to be far from practicably useful or desirable. The term, in Japanese is made up of two characters, /chū/ meaning, center or middle, and /ritsu/ meaning 'to stand, standing' - it implies just this - taking up a central position. The question thus becomes, how does the press know or judge where this 'central' position is? And, is this a suitable position for the press?
+
+Ultimately, is it healthy for a society to have a media which can be dragged left and right with the vagaries of changes in the political landscape? Surely this is the opposite of a principled press. 3
+# insert citations here - Street?
+
+Is /chūritsu/ equivalent to 'balance'?
+
+** Abenomics
+
+* Government people involved
+
+** Abe Shinzō
+
+** Takaichi Sanae
+Takaichi Sanane first joined the government during Abe Shinzo's second cabinet when she was appointed Minister for Internal Affairs and communications in September 2014. At time of writing she is still in this role, being retained after the reshuffle of December 2014.
+# 第2次安倍内閣改造内閣	高市　早苗
+# 平成26年9月3日～平成26年12月24日
+# 第3次安倍内閣	- 第3次安倍内閣改造内閣
+# 平成26年12月24日～present
+
+** Suga Yoshihide
+Suga Yoshihide was Vice-minister for Internal Affairs and communications during the third Koizumi cabinet, Nov 2005 - Sep 2006; he was then promoted to Minister when Abe took over the premiership in Sep 2006, a post he held until August 2007.
+
+# Vice Soumu Min under Koizumi 3rd cab. (Takenaka)
+# 菅　義偉	平成17年11月2日～平成18年9月26日
+# Then Minister under succeeding Abe cab.
+# 第1次安倍内閣	菅　義偉 総務大臣
+# 平成18年9月26日～平成19年8月27日
+
+Suga's role of /Kanbōchōkan/ - Chief Cabinet Secretary puts him in the position where he is the primary government spokesman, he regularly appears in the mass media making statements on government policy and reacting to events and comments made by others.
+
+However, the unwritten rules of Japanese reporting mean that it is very rare for him to face 'hard' public questioning on matter of concern. Political reporting in Japan tends to be 'polite' to the point of unctuousness. Thus, when the presenter of NHK's daily current affairs show /Close-Up Gendai/ 国谷裕子 deviated from this norm and repeatedly asked if the newly agreed 'War Law' might not lead to Japan's becoming embroiled in allies' conflicts, he was a little put out.
+# interview July 2014
+
+Kunitani presented her last program on ??? after a career of 23 years at NHK.
+* Industry responsibility
+
+If the mass media industries, the individuals within them, themselves can't be bothered (or don't think it's a good idea) to push back against government encroachment, how can audiences ensure they get the information they think they need to live their lives? If the established mass media companies are going to abandon their role as watchdogs, it makes sense to turn elsewhere. This is what people will do.
+
+Ultimately it is poor business for the mass media industries to give up on the one thing that gives them any social standing they might have; credibility. In a country like Japan, which has recent experience of free and un-free media, the sensitivity to governmemnt attempts to influence the content of mass media communication is high. And people are aware of what a government controlled media system looks and sounds like, also where it can lead.
+
+It is entirely possible that there is a significant section of Japanese society which would welcome the return of the strong state, and a Japan ready to throw its weight about on the international stage.
+
+The responsibility for this state of affairs goes beyond the institutions of the mass media itself; there is a profound dearth of journalistic education in Japan, thus very few places where any sort of professional identity can be learned and nurtured. Thus the first serious experience of journalism that reporters have is *within* the context of a specific company \citep{Cooper-Chen:1997a}. One of the essential dynamics of industrialised reporting - the tension between a 'vertical' company identity (and identification with company policy) and the broader 'horizontal' professional identity (and identification with its idealised standards) is lacking in Japan.
+
+Simultaneous belonging to groups with conflicting interests (company vs profession) id perhaps more difficult in a country where (as near a possible) identity with the group and its is felt to be desirable.
+
+#+BEGIN_LATEX
+\printbibliography
+#+END_LATEX
+
