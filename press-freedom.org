@@ -54,8 +54,18 @@ Taken separately the incidents and occurrences can all be accounted for separate
 - caster replaced, program changed... Dave Spector!!!
 
 An increase in the degree to which those within the mass media who take the idea of independence seriously - who realise how essential such a media is to a  functioning democracy - think it is necessary to bring the topic of 'political pressure' out for discussion.
+* A timeline of events
 
-* Informal meetings increase
+There are independent justifications and explanations for all the events looked at her, and indeed, within the mass media industries there will be many individuals for whom political pressure does not seem to be a relevant issue. While editorial staff in the mass media are the most visible and most vocal section, they are not the most numerous. Yet they the editorial staff in some sense *are* the mass media in that they are the people who fulfill its primary function of gathering, editing and presenting the information which allows audiences to (theoretically at least) participate as citizens.
+
+** /Tsubaki Hatsugen Jiken/ (1993-4)
+This well-documented incident\cite{Berger:1995} can be thought of as a turning point in government attitudes to the import of the Broadcast Law.(cite!) What had between its creation in 1950 and this point had been seen as a set of 'ethical guidelines' (/rinri-kijun/) for those in the mass media started to take on aspects of ???. It was from this point on that /gyōsei-shidō/ started to be used to deal with perceived infractions.
+** 2011.3 - Tsunami - Fukushima
+The Tohoku Quake/Tsunami and Fukushima Daiichi Nuclear Plant disasters of March 2011 marked another significant event in the downward spiral of press freedom in Japan. The veils of secrecy and impulse to obfuscation of the various sources of information - central government, Tokyo Power (TEPCO) and the selection nuclear industry related bodies referred to in Japanese as 'genpatsu-mura' (the nuclear village) all demonstrated the instinct to cover up and prevaricate in situations where openness, information and knowledge-sharing would have probably led to preferable outcomes for many concerned, particularly those people directly affected by this medley of disasters.
+
+Reporters Sans Frontieres cites official attitudes to reporting of these matters as a primary concern in its report of 2012? when Japan's ranking fell from ??? to ???.
+
+** Informal meetings increase
 
 As the figures (see [[tab:meetings]])detailed by ??? in HSR 260 (p22), there are significant and regular contacts between members of the government and senior members of the press.
 
@@ -77,16 +87,6 @@ As the figures (see [[tab:meetings]])detailed by ??? in HSR 260 (p22), there are
 # (Source - p22, Hoso Report 260s)
 
 It can be seen from these figures that not all media groupings are treated the same way by the government. Those generally seen as more conservative[CITE], with views that generally align fairly well with the views of an LDP cabinet can be seen to have been favoured with access to PM Abe.
-* A timeline of events
-
-There are independent justifications and explanations for all the events looked at her, and indeed, within the mass media industries there will be many individuals for whom political pressure does not seem to be a relevant issue. While editorial staff in the mass media are the most visible and most vocal section, they are not the most numerous. Yet they the editorial staff in some sense *are* the mass media in that they are the people who fulfill its primary function of gathering, editing and presenting the information which allows audiences to (theoretically at least) participate as citizens.
-
-** /Tsubaki Hatsugen Jiken/ (1993-4)
-This well-documented incident\cite{Berger:1995} can be thought of as a turning point in government attitudes to the import of the Broadcast Law.(cite!) What had between its creation in 1950 and this point had been seen as a set of 'ethical guidelines' (/rinri-kijun/) for those in the mass media started to take on aspects of ???. It was from this point on that /gyōsei-shidō/ started to be used to deal with perceived infractions.
-** 2011.3 - Tsunami - Fukushima
-The Tohoku Quake/Tsunami and Fukushima Daiichi Nuclear Plant disasters of March 2011 marked another significant event in the downward spiral of press freedom in Japan. The veils of secrecy and impulse to obfuscation of the various sources of information - central government, Tokyo Power (TEPCO) and the selection nuclear industry related bodies referred to in Japanese as 'genpatsu-mura' (the nuclear village) all demonstrated the instinct to cover up and prevaricate in situations where openness, information and knowledge-sharing would have probably led to preferable outcomes for many concerned, particularly those people directly affected by this medley of disasters.
-
-Reporters Sans Frontieres cites official attitudes to reporting of these matters as a primary concern in its report of 2012? when Japan's ranking fell from ??? to ???.
 ** Momii - NHK
 Katsuto Momii, in places described as a friend of Shinzo Abe, was appointed Chairman of NHK in ??? His first official act was to effectively undermine the standing of the organisation he was heading by making inflammatory comments on the 'comfort women' issue. He soon followed this up with further statements which seemed to suggest that under his leadership NHK would be following the government line.
 #+BEGIN_QUOTE
@@ -105,7 +105,7 @@ SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/
 * Issues
 ** Nuclear Power
 
-3/14 Asahi paper, then shasetsu 4/15 - complaints from Matsuura Nuclear Kisei-cho saying article wrong. 16/3/16 govt complained at regular presser.
+3/14 Asahi paper, then /shasetsu/ 4/15 - complaints from Matsuura Nuclear Kisei-cho saying article wrong. 16/3/16 govt complained at regular presser.
 
 Hokkaido Paper - Uede reporter
 ** Secrets Law
@@ -158,7 +158,7 @@ Takaichi Sanae first joined the government during Abe Shinzo's second cabinet wh
 # 第3次安倍内閣	- 第3次安倍内閣改造内閣
 # 平成26年12月24日～present
 
-Shortly after her promotion it emerged she had met right-winger - the Guardian went as far as to say 'Neo-Nazi'(see [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p620][Neo-Nazi photos pose headache for Shinzo Abe | World news | theguardian.com]]) - Kazunari Yamada, and had her photograph taken with him in front of the Japanese flag, still a controversial symbol for many in Japan[CITE]. 
+Shortly after her promotion it emerged she had met right-winger - the Guardian went as far as to say 'Neo-Nazi'(see [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p620][Neo-Nazi photos pose headache for Shinzo Abe | World news | theguardian.com]]) - Kazunari Yamada, and had consented to be photographed with him in front of the Japanese national flag, still a controversial symbol for many in Japan[CITE].
 
 She had also voiced the belief that:
 # the ruling Liberal Democratic Party’s own policy chief said on NHK the previous day
@@ -167,7 +167,7 @@ that President Shinzo Abe disagreed with the findings of the Tokyo War Crimes Tr
 #+END_QUOTE
 SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p422][Suga rushes to smother LDP's latest brush fire over war - The Japan Times]]
 
-As politicians cannot fail to be aware, it is impossible to unsay things - despite the prevalence of the term /tekkai/ ('withdraw')  in the rhetoric of Japanese political apology. Once an utterance has been made it can be left to appeal to those who must be appealed to and winkingly 'retracted' for the sake of propriety. It requires little of, and would seem to involve little damage to credibility, for a politician to withdraw a statement if they can be argue that they have done so under pressure from 'biased', 'left-wing' media.
+As politicians cannot fail to be aware, it is impossible to unsay things - despite the prevalence of the term /tekkai/ ('withdraw')  in the rhetoric of Japanese political apology. Once an utterance has been made it can be left to appeal to those who must be appealed to and winkingly 'retracted' for the sake of propriety. It requires little of, and would seem to involve little damage to credibility, for a politician to withdraw a statement if they can argue that they have done so under pressure from 'biased', 'left-wing' media.
 
 ** Suga Yoshihide
 Suga Yoshihide was Vice-minister for Internal Affairs and communications during the third Koizumi cabinet, Nov 2005 - Sep 2006; he was then promoted to Minister when Abe took over the premiership in Sep 2006, a post he held until August 2007.
