@@ -1,5 +1,5 @@
 #+STARTUP: indent
-#+MACRO HS /Hōdo Station/
+#+MACRO: HS /Hōdo Station/
 #+LATEX_CLASS: koma-article
 #+LATEX_HEADER: \usepackage{spkb-pack}
 #+LATEX_HEADER: \addbibresource{/Users/spkb/Documents/Bibliographies/mybib.bib}
@@ -7,7 +7,8 @@
 #+COLUMNS: %25ITEM %TARGET %ACTUAL %PRIORITY
 #+TITLE: Press Freedom in Japan
 
-#+BEGIN: columnview :hlines 1 :id global
+* Front Matter :noexport:
+#+BEGIN: columnview :hlines 1 :id global 
 | ITEM                                          | TARGET | ACTUAL | PRIORITY |
 |-----------------------------------------------+--------+--------+----------|
 | * Press Freedom in Japan                      |    400 |    173 | B        |
@@ -73,10 +74,6 @@ The aims of the law are as follows (Section 1, article 1)
 #+END_QUOTE
 
 Roughly speaking the aims of the law are:
-
-#+BEGIN_SRC sh :exports results
-date +"%d-%m %H:%M (%a)"
-#+END_SRC
 
 #+BEGIN_QUOTE
 1. To ensure that broadcasting is available to as many people as possible.
@@ -279,7 +276,13 @@ Simultaneous belonging to groups with conflicting interests (company vs professi
 - Structural lack of agility
 - Assumption of benevolence
 - Lack of 'distance' / symbiosis
+** Journalistic Education
+The widely-used 'Shingaku.net' site returns just four hits for a search for the keyword 'janarizumu'. The universities offering courses are Chuo University, Senshu Daigaku, Waseda and the Wellness Sports Daigaku. Senshu offers a course in the 'Humanities and Journalism Department' (Jinbun Janarizumu Gakka) of its College of Literature[[http://shingakunet.com/gakko/SC000406/gakubugakka/][ 中央大学／募集学部・学科・コース一覧【リクナビ進学】]]. Chuo offers a cross-departmental Journalism Program which brings in faculty from Economics, Literature and Policy.[[http://www.chuo-u.ac.jp/aboutus/gp/flp/program/journalism/][ジャーナリズムプログラム | 中央大学]]. Waseda offers a course which includes journalism modules in the Creative Writing and Criticism program available in its School of Culture, Media and Society.[[https://www.waseda.jp/flas/cms/about/theoretical/cwc/][文芸・ジャーナリズム論系 – 早稲田大学 文化構想学部]].
+There do not seem to be any dedicated schools or departments for the teaching of journalism.
 
+Where do the people who will become journalists acquire a professional identity? If journalism is more akin to a shared ideology CITE-DEUZE!, where will this be learned? 
+** Unions and other Associations
+** Identity and Ideology
 * Conclusions
 :PROPERTIES:
 :TARGET: 500
