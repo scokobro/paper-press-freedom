@@ -9,45 +9,51 @@
 
 * Front Matter :noexport:
 #+BEGIN: columnview :hlines 1 :id global 
-| ITEM                                          | TARGET | ACTUAL | PRIORITY |
-|-----------------------------------------------+--------+--------+----------|
-| * Press Freedom in Japan                      |    400 |    173 | B        |
-| ** Dependence and Independence                |        |        | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Real world effects?                         |    400 |     50 | B        |
-| ** Kishii Shigetada dropped from /News Zero/? |        |        | B        |
-| ** Furutachi - /News23/ caster dropped        |        |        | B        |
-| ** 'Close Up Gendai'                          |        |        | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * A timeline of events                        |   1500 |    954 | B        |
-| ** /Tsubaki Hatsugen Jiken/ (1993-4)          |        |        | B        |
-| ** 2011.3 - Tsunami - Fukushima               |        |        | B        |
-| ** Informal meetings increase                 |        |        | B        |
-| ** Momii - NHK                                |        |        | B        |
-| ** Koga Shigeaki                              |        |        | B        |
-| ** Pre-election letter to press               |        |        | B        |
-| ** Furutachi goes                             |        |        | B        |
-| ** Takaichi 'gyōmu teishi' threat             |        |        | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Issues                                      |    800 |    270 | B        |
-| ** Nuclear Power                              |        |        | B        |
-| ** Secrets Law                                |        |        | B        |
-| ** War Law                                    |        |        | B        |
-| ** General Election                           |        |        | B        |
-| ** Abenomics                                  |        |        | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Government people involved                  |    800 |    782 | B        |
-| ** Abe Shinzō                                 |        |        | B        |
-| ** Takaichi Sanae                             |        |        | B        |
-| ** Suga Yoshihide                             |        |        | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Industry responsibility                     |    500 |    312 | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Discussion                                  |    800 |      0 | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * Conclusions                                 |    500 |      0 | B        |
-|-----------------------------------------------+--------+--------+----------|
-| * TOTALS                                      |   5700 |   2541 | B        |
+| ITEM                                        | TARGET | ACTUAL | PRIORITY |
+|---------------------------------------------+--------+--------+----------|
+| * Front Matter                              |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Press Freedom in Japan                    |    400 |    173 | B        |
+| ** Dependence and Independence              |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Real world effects?                       |    400 |    307 | B        |
+| ** Kishii Shigetada dropped from /News 23/? |        |        | B        |
+| ** Furutachi - /News23/ caster replaced     |        |        | B        |
+| ** 'Close Up Gendai'                        |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * A timeline of events                      |   1500 |    954 | B        |
+| ** /Tsubaki Hatsugen Jiken/ (1993-4)        |        |        | B        |
+| ** 2011.3 - Tsunami - Fukushima             |        |        | B        |
+| ** Informal meetings increase               |        |        | B        |
+| ** Momii - NHK                              |        |        | B        |
+| ** Koga Shigeaki                            |        |        | B        |
+| ** Pre-election letter to press             |        |        | B        |
+| ** Furutachi goes                           |        |        | B        |
+| ** Takaichi 'gyōmu teishi' threat           |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Issues                                    |    800 |    270 | B        |
+| ** Nuclear Power                            |        |        | B        |
+| ** Secrets Law                              |        |        | B        |
+| ** War Law                                  |        |        | B        |
+| ** General Election                         |        |        | B        |
+| ** Abenomics                                |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Government people involved                |    800 |    782 | B        |
+| ** Abe Shinzō                               |        |        | B        |
+| ** Takaichi Sanae                           |        |        | B        |
+| ** Suga Yoshihide                           |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Industry responsibility                   |    500 |    312 | B        |
+| ** Adversarial Approach                     |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Discussion                                |    800 |    229 | B        |
+| ** Journalistic Education                   |        |        | B        |
+| ** Unions and other Associations            |        |        | B        |
+| ** Identity and Ideology                    |        |        | B        |
+|---------------------------------------------+--------+--------+----------|
+| * Conclusions                               |    500 |      0 | B        |
+|---------------------------------------------+--------+--------+----------|
+| * TOTALS                                    |   5700 |   3027 | B        |
 #+TBLFM: @>$2=vsum(@2$2..@>>$2)::@>$3=vsum(@2$3..@>>$3)
 #+END:
 
@@ -90,12 +96,26 @@ In Japan, being independent can equate to 'having nor friends' - for a society w
 * Real world effects?
 :PROPERTIES:
 :TARGET: 400
-:ACTUAL: 50
+:ACTUAL: 307
 :END:
-Taken separately the incidents and occurrences can all be accounted for separately, however their co-occurrence has to be accounted for in some way. Why *these* incidents, why *now*?
+Taken separately the incidents and occurrences can all be accounted for separately, however their co-occurrence has to be accounted for in some way. Why *these* incidents, why *now*? And what might be the effect on those who carry on working in the news media?
 
-** Kishii Shigetada dropped from /News Zero/?
-** Furutachi - /News23/ caster dropped
+The effect seems to be exactly what a government determined to stifle media criticism might hope for 
+
+#+BEGIN_QUOTE
+A source close to NHK sighed and said there is a growing atmosphere among NHK staff that they should be second-guessing the administration’s expectations.
+#+END_QUOTE
+SOURCE: [[http://www.japantimes.co.jp/news/2016/01/26/national/media-national/self-censorship-sensed-japans-tv-stations-replace-outspoken-anchors/#.Vzcfx2NE8eg][Self-censorship sensed as Japan's TV stations replace outspoken anchors | The Japan Times]]
+
+** Kishii Shigetada dropped from /News 23/?
+TBS evening news presenter dropped April 2016. 
+#+BEGIN_QUOTE
+Kishii expressed opposition to contentious security bills before they cleared the Diet last September and called on fellow opponents to speak up.
+“Voices should continuously be raised (for the bills) to be scrapped,” he declared.
+Criticism was heaped upon him, particularly from the right. One conservative political group said his statement violated the Broadcast Law, which states broadcasters must be politically impartial.
+#+END_QUOTE
+SOURCE: [[http://www.japantimes.co.jp/news/2016/01/26/national/media-national/self-censorship-sensed-japans-tv-stations-replace-outspoken-anchors/#.Vzcfx2NE8eg][Self-censorship sensed as Japan's TV stations replace outspoken anchors | The Japan Times]]
+** Furutachi - /News23/ caster replaced
 - despite on-air disagreement with Koga
 ** 'Close Up Gendai'
 - caster replaced, program changed... Dave Spector!!!
@@ -226,7 +246,7 @@ Takaichi Sanae first joined the government during Abe Shinzo's second cabinet wh
 # 第3次安倍内閣	- 第3次安倍内閣改造内閣
 # 平成26年12月24日～present
 
-Shortly after her promotion it emerged she had met right-winger - the Guardian went as far as to say 'Neo-Nazi'(see [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p620][Neo-Nazi photos pose headache for Shinzo Abe | World news | theguardian.com]]) - Kazunari Yamada, and had consented to be photographed with him in front of the Japanese national flag, still a controversial symbol for many in Japan[CITE].
+Shortly after her promotion it emerged she had met right-winger - the Guardian went as far as to say 'Neo-Nazi'(see [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p620][Neo-Nazi photos pose headache for Shinzo Abe | World news | theguardian.com]]) - Kazunari Yamada, and had consented to be photographed with him in front of the Japanese national flag, still a controversial symbol for many in Japan[CITE]. EG - [[http://abcnews.go.com/International/japanese-teachers-fight-flag-salute-national-anthem-enforcement/story?id=12909556][Japanese Teachers Fight Flag Salute, National Anthem Enforcement - ABC News]]
 
 She had also voiced the belief that:
 # the ruling Liberal Democratic Party’s own policy chief said on NHK the previous day
@@ -248,15 +268,16 @@ Suga Yoshihide was Vice-minister for Internal Affairs and communications during 
 
 Suga's role of /Kanbōchōkan/ - Chief Cabinet Secretary puts him in the position where he is the primary government spokesman, he regularly appears in the mass media making statements on government policy and reacting to events and comments made by others.
 
-However, the unwritten rules of Japanese reporting mean that it is very rare for him to face 'hard' public questioning on matter of concern. Political reporting in Japan tends to be 'polite' to the point of unctuousness. Thus, when the presenter of NHK's daily current affairs show /Close-Up Gendai/ 国谷裕子 deviated from this norm and wrepeatedly asked if the newly agreed 'War Law' might not lead to Japan's becoming embroiled in allies' conflicts, he was a little put out.
+However, the unwritten rules of Japanese reporting mean that it is very rare for him to face 'hard' public questioning on matter of concern. Political reporting in Japan tends to be 'polite' to the point of unctuousness. Thus, when the presenter of NHK's daily current affairs show /Close-Up Gendai/ Hiroko Kuniya deviated from this norm and wrepeatedly asked if the newly agreed 'War Law' might not lead to Japan's becoming embroiled in allies' conflicts, he was a little put out.
 # interview July 2014
 
-Kunitani presented her last program on ??? after a career of 23 years at NHK.
+Kuniya presented her last program on ??? after a career of 23 years at NHK.
 * Industry responsibility
 :PROPERTIES:
 :TARGET: 500
 :ACTUAL: 312
 :END:
+
 If the mass media industries, the individuals within them, themselves can't be bothered (or don't think it's a good idea) to push back against government encroachment, how can audiences ensure they get the information they think they need to live their lives? If the established mass media companies are going to abandon their role as watchdogs, it makes sense to turn elsewhere. This is what people will do.
 
 Ultimately it is poor business for the mass media industries to give up on the one thing that gives them any social standing they might have; credibility. In a country like Japan, which has recent experience of free and un-free media, the sensitivity to governmemnt attempts to influence the content of mass media communication is high. And people are aware of what a government controlled media system looks and sounds like, also where it can lead.
@@ -267,7 +288,22 @@ The responsibility for this state of affairs goes beyond the institutions of the
 
 Simultaneous belonging to groups with conflicting interests (company vs profession) id perhaps more difficult in a country where (as near a possible) identity with the group and its is felt to be desirable.
 
+** Adversarial Approach (lackings)
 
+From: \citep{Oi:2012}
+
+# Although the watchdog role is considered an important media function, only about one-third of Japanese journalists believe they actually fulfil this role
+
+# ...about 6 out of 10 Japanese news professionals believe that the relationship between journalist  and government sources is 'very' 7% or 'somewhat' 58.4 % cooperative. Only a small minority rates this relationship as 'very' 1% or 'somewhat' 13.5 hostile. This suggests that most Japanese  journalists their relationship with government is symbiotic rather than antagonistic.
+
+# Most journalists (82.9%) note that there is a clear need to improve journalism education and training in JAPAN . ... Journalism training in Japan remains unstructured, largely based upon on-the-job training or apprenticeships. (GAUNT 1992)
+
+# The virtual absence of schools of journalism in Japan might be recognised a a serious problem (Oi 2009a, 2009b)
+
+# Gaunt - making the newsmakers
+
+# Oi 2009a/b - /Shintei Shimbun-gaku/, ed Hamada, Tajima, Katsura
+# /Media kenkyu to Janarizumu/, eds Tsuganezawa
 * Discussion
 :PROPERTIES:
 :TARGET: 800
