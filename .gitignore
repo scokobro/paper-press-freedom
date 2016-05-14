@@ -1,5 +1,6 @@
 #no binary files
 *.odt
+*.tex
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
