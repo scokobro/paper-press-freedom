@@ -1,4 +1,5 @@
 #+STARTUP: indent
+#+MACRO HS /Hōdo Station/
 #+LATEX_CLASS: koma-article
 #+LATEX_HEADER: \usepackage{spkb-pack}
 #+LATEX_HEADER: \addbibresource{/Users/spkb/Documents/Bibliographies/mybib.bib}
@@ -6,15 +7,58 @@
 #+COLUMNS: %25ITEM %TARGET %ACTUAL %PRIORITY
 #+TITLE: Press Freedom in Japan
 
+#+BEGIN: columnview :hlines 1 :id global
+| ITEM                                          | TARGET | ACTUAL | PRIORITY |
+|-----------------------------------------------+--------+--------+----------|
+| * Press Freedom in Japan                      |    400 |    173 | B        |
+| ** Dependence and Independence                |        |        | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Real world effects?                         |    400 |     50 | B        |
+| ** Kishii Shigetada dropped from /News Zero/? |        |        | B        |
+| ** Furutachi - /News23/ caster dropped        |        |        | B        |
+| ** 'Close Up Gendai'                          |        |        | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * A timeline of events                        |   1500 |    954 | B        |
+| ** /Tsubaki Hatsugen Jiken/ (1993-4)          |        |        | B        |
+| ** 2011.3 - Tsunami - Fukushima               |        |        | B        |
+| ** Informal meetings increase                 |        |        | B        |
+| ** Momii - NHK                                |        |        | B        |
+| ** Koga Shigeaki                              |        |        | B        |
+| ** Pre-election letter to press               |        |        | B        |
+| ** Furutachi goes                             |        |        | B        |
+| ** Takaichi 'gyōmu teishi' threat             |        |        | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Issues                                      |    800 |    270 | B        |
+| ** Nuclear Power                              |        |        | B        |
+| ** Secrets Law                                |        |        | B        |
+| ** War Law                                    |        |        | B        |
+| ** General Election                           |        |        | B        |
+| ** Abenomics                                  |        |        | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Government people involved                  |    800 |    782 | B        |
+| ** Abe Shinzō                                 |        |        | B        |
+| ** Takaichi Sanae                             |        |        | B        |
+| ** Suga Yoshihide                             |        |        | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Industry responsibility                     |    500 |    312 | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Discussion                                  |    800 |      0 | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * Conclusions                                 |    500 |      0 | B        |
+|-----------------------------------------------+--------+--------+----------|
+| * TOTALS                                      |   5700 |   2541 | B        |
+#+TBLFM: @>$2=vsum(@2$2..@>>$2)::@>$3=vsum(@2$3..@>>$3)
+#+END:
 
-#+BEGIN_ABSTRACT
+#+BEGIN_abstract
+\noindent
 This paper briefly outlines the background which over the last several years has led to concerns over the future of the ability of Japan's press to contribute usefully to its democracy. 
-#+END_ABSTRACT
+#+END_abstract
 
 * Press Freedom in Japan
 :PROPERTIES:
 :TARGET: 400
-:ACTUAL: 
+:ACTUAL: 173
 :END:
 The aims of the law are as follows (Section 1, article 1)
 
@@ -30,6 +74,10 @@ The aims of the law are as follows (Section 1, article 1)
 
 Roughly speaking the aims of the law are:
 
+#+BEGIN_SRC sh :exports results
+date +"%d-%m %H:%M (%a)"
+#+END_SRC
+
 #+BEGIN_QUOTE
 1. To ensure that broadcasting is available to as many people as possible.
 2. By guaranteeing the impartiality, veracity and independence of broadcasting, secure freedom of expression through broadcasting.
@@ -37,6 +85,7 @@ Roughly speaking the aims of the law are:
 #+END_QUOTE
 
 To summarise, the Broadcast Law was conceived and created as a way of ensuring that the broadcast industry was independent - not beholden to any particular section of society, and was thus in a position to contribute to the development of postwar Japan as a democracy.
+
 
 ** Dependence and Independence
 In Japan, being independent can equate to 'having nor friends' - for a society where belonging, ranking, explicitly structured social arrangments are the norm - independence is a scary and probably unwelcome state. It implies being cut off, adrift, without support and guidance.
@@ -48,14 +97,18 @@ In Japan, being independent can equate to 'having nor friends' - for a society w
 :END:
 Taken separately the incidents and occurrences can all be accounted for separately, however their co-occurrence has to be accounted for in some way. Why *these* incidents, why *now*?
 
-** Furutachi - 'News23' caster dropped
+** Kishii Shigetada dropped from /News Zero/?
+** Furutachi - /News23/ caster dropped
 - despite on-air disagreement with Koga
 ** 'Close Up Gendai'
 - caster replaced, program changed... Dave Spector!!!
 
 An increase in the degree to which those within the mass media who take the idea of independence seriously - who realise how essential such a media is to a  functioning democracy - think it is necessary to bring the topic of 'political pressure' out for discussion.
 * A timeline of events
-
+:PROPERTIES:
+:TARGET: 1500
+:ACTUAL: 954
+:END:
 There are independent justifications and explanations for all the events looked at her, and indeed, within the mass media industries there will be many individuals for whom political pressure does not seem to be a relevant issue. While editorial staff in the mass media are the most visible and most vocal section, they are not the most numerous. Yet they the editorial staff in some sense *are* the mass media in that they are the people who fulfill its primary function of gathering, editing and presenting the information which allows audiences to (theoretically at least) participate as citizens.
 
 ** /Tsubaki Hatsugen Jiken/ (1993-4)
@@ -95,14 +148,30 @@ Katsuto Momii, in places described as a friend of Shinzo Abe, was appointed Chai
 SOURCE: [[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p1419][Abe Should Condemn NHK Officials' Comments: U.S. Paper]]
 
 ** Koga Shigeaki
+TV Asahi's Tsubaki ?? was perhaps the cause of government attitudes to use of the Broadcast Law as a means of control over broadcasters. TV Asahi's regular evening news program, Nyūsu Station/Hōdō Station has likewise proved to be a fairly regular thorn in the side government. The latest manifestation of this antipathy - perhaps applying to Abe and the whole Asahi media group (Asahi Shimbun and TV Asahi) was the dramatic removal/career suicide of regular contributor and commentator Shigeaki Koga in April 2015. 
+
+Koga, formerly a government official <CHECK> had been a regular commentator on /Hōdō Station/ since ??? On the ??<date> of the show he took the presented off-guard and departed from the agreed script to air his view that he had been hounded from the show by 'bashing' from the Cabinet Office. He later held up a 'flip' (hand-held printed sheet used to display graphics on Japanese television) printed with the words "I am not Abe", echoing the "I am Charlie" meme of previous weeks.
 
 ** Pre-election letter to press
+In the run-up to the General House of Representatives election of 14 Dec 2014, the LDP/government thought it expedient to send broadcasters a letter reminding them to make sure to be 'fair' in their coverage. As Shigeaki Koga explains:
+#+BEGIN_QUOTE
+“Years ago, producers would have probably ripped up a letter like that and thrown it in the bin, but in this case they copied it and sent it to their news departments,”
+#+END_QUOTE
+[[mac-evernote:x-coredata://BEC16A4F-B349-47C5-B13D-8D5CA07C067B/ENNote/p1797][Japanese media facing political pressure, says Abe critic]]
+
+The perceived risk of upsetting the Abe government -- and where this risk might bring on repercussions became clear early in 2016?? -- meant that instead of the recipients being up front about an attempt by politicians to influence the nature of their coverage, by revealing the letter and its contents to their viewers and asking for an explanation from its originators, they decided to keep it an internal matter and indeed passed the threat on down the chain of management to those in a position to actually affect content.<CHECK>
 
 ** Furutachi goes
+Perhaps triggered by his 'failure to control' his guest regular commentator Koga, ??? Furutachi presented hia last edition of the TV Asahi evening news show {{{HS}}} on <DATE>. He had originally taken over the show, employed as an outside presenter (he works for his own production company, ???)m from the previous presenter and lead newscaster Kume Hiroshi, a similarly outspoken individual. {{{HS}}} since it went on-air (as /News Station/ww) in 1985? had gained a reputation for being willing to deal with stories which would ruffle government and establishment feathers. There have been occasions when fervour got the better of news judgment but on the whole, the has played a vital role in re-invigorating broadcast news in Japan. 
 
-** Takaichi 'gyoumu teishi' threat
+Since Furutachi's departure his role has been taken by ???, a TV Asahi employee; whether the show will retain its slightly maverick approach, now that the lead newscaster is also a corporate employee rather than a freelance, is a matter that should concern those who understand the importance of the role of a program like {{{HS}}}.
+** Takaichi 'gyōmu teishi' threat
 
 * Issues
+:PROPERTIES:
+:TARGET: 800
+:ACTUAL: 270
+:END:
 ** Nuclear Power
 
 3/14 Asahi paper, then /shasetsu/ 4/15 - complaints from Matsuura Nuclear Kisei-cho saying article wrong. 16/3/16 govt complained at regular presser.
@@ -128,7 +197,10 @@ Is /chūritsu/ equivalent to 'balance'?
 ** Abenomics
 
 * Government people involved
-
+:PROPERTIES:
+:TARGET: 800
+:ACTUAL: 782
+:END:
 ** Abe Shinzō
 Two-time prime minister(2006--7, 2012--6)!!, grandson of former PM(1957-1960) Nobusuke Kishi, son of ex-/Mainichi Shimbun/ reporter, LDP foreign minister and faction leader, Shintaro Abe.
 
@@ -184,7 +256,10 @@ However, the unwritten rules of Japanese reporting mean that it is very rare for
 
 Kunitani presented her last program on ??? after a career of 23 years at NHK.
 * Industry responsibility
-
+:PROPERTIES:
+:TARGET: 500
+:ACTUAL: 312
+:END:
 If the mass media industries, the individuals within them, themselves can't be bothered (or don't think it's a good idea) to push back against government encroachment, how can audiences ensure they get the information they think they need to live their lives? If the established mass media companies are going to abandon their role as watchdogs, it makes sense to turn elsewhere. This is what people will do.
 
 Ultimately it is poor business for the mass media industries to give up on the one thing that gives them any social standing they might have; credibility. In a country like Japan, which has recent experience of free and un-free media, the sensitivity to governmemnt attempts to influence the content of mass media communication is high. And people are aware of what a government controlled media system looks and sounds like, also where it can lead.
@@ -195,8 +270,29 @@ The responsibility for this state of affairs goes beyond the institutions of the
 
 Simultaneous belonging to groups with conflicting interests (company vs profession) id perhaps more difficult in a country where (as near a possible) identity with the group and its is felt to be desirable.
 
+
+* Discussion
+:PROPERTIES:
+:TARGET: 800
+:ACTUAL: 0
+:END:
+- Structural lack of agility
+- Assumption of benevolence
+- Lack of 'distance' / symbiosis
+
+* Conclusions
+:PROPERTIES:
+:TARGET: 500
+:ACTUAL: 0
+:END:
+
 #+BEGIN_LATEX
 \printbibliography
 #+END_LATEX
 
+* TOTALS :noexport:
+:PROPERTIES:
+:TARGET: 
+:ACTUAL: 
+:END:
 
