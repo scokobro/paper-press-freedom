@@ -271,7 +271,7 @@ Simultaneous belonging to groups with conflicting interests (company vs professi
 * Discussion
 :PROPERTIES:
 :TARGET: 800
-:ACTUAL: 0
+:ACTUAL: 229
 :END:
 - Structural lack of agility
 - Assumption of benevolence
@@ -281,6 +281,9 @@ The widely-used 'Shingaku.net' site returns just four hits for a search for the 
 There do not seem to be any dedicated schools or departments for the teaching of journalism.
 
 Where do the people who will become journalists acquire a professional identity? If journalism is more akin to a shared ideology CITE-DEUZE!, where will this be learned? 
+
+These seems to be little readon to suspect that there has been significant change since Cooper-Chen and Takeichi's (1997) overview of the differences between the US and Japanese routes into professional journalism written nearly 20 years ago \citep{Cooper-Chen:1997a}.
+
 ** Unions and other Associations
 ** Identity and Ideology
 * Conclusions
